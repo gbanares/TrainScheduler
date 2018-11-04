@@ -1,0 +1,19 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+    padding-top: 3.5rem;
+  }
+
+footer {
+    text-align: center;
+    margin: 20px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+.lh-condensed { line-height: 1.25; }
+
+#div-with-bg {
+  background: url("../images/jack-anstey-383370-unsplash.png");
+}
